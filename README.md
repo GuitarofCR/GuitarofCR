@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on any projects for practice
 - 📫 How to reach me: charles.roper.15@hotmail.com
 
-Currently profiecient in Javascript (including understanding and use of classes), HTML and CSS
+Currently profiecient in Javascript (including React), HTML and CSS
 
